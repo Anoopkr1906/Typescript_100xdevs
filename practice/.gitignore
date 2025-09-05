@@ -1,1 +1,3 @@
 dist
+# Ignore TypeScript build info file
+tsconfig.tsbuildinfo
